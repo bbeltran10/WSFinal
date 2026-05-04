@@ -39,6 +39,7 @@ The site features a structured layout with a form for adding books, filter butto
 
 ---
 
+<img width="1920" height="1241" alt="image" src="https://github.com/user-attachments/assets/0ba09347-29c9-4f50-9c42-420d10ceaecb" />
 
 
 ---
